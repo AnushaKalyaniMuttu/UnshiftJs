@@ -1,0 +1,6 @@
+const arr=['Anusha', 'Kalyani']
+arr.unshift('Muttu')
+console. log(arr);
+
+
+o/p: ['Muttu','Anusha','Kalyani']
